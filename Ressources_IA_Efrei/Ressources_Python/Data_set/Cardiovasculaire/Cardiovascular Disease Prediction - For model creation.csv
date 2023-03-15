@@ -1,0 +1,304 @@
+GOAL-Heart Disease;Age (years);Sex;Chest Pain type;Resting blood pressure (mm/Hg);Serum cholesterol (mg/dl);Fasting blood pressure (>120mg/dl);Resting ECG results;Maximum heart rate achieved;Exercise induced angina;ST depression induced by exercise;Slope of the ST segment;Number of major vessels colored by flourosopy;Thalassemia
+Yes;63;Male;Typical angina;145;233;Yes;Left ventricular hypertrophy;150;No;2.3;Downsloping;0;fixed defect
+No;37;Male;Non-anginal pain;130;250;No;Normal;187;No;3.5;Downsloping;0;normal
+Yes;41;Female;Atypical angina;130;204;No;Left ventricular hypertrophy;172;No;1.4;Upsloping;0;normal
+Yes;56;Male;Atypical angina;120;236;No;Normal;178;No;0.8;Upsloping;0;normal
+No;57;Female;Asymptomatic;120;354;No;Normal;163;Yes;0.6;Upsloping;0;normal
+Yes;57;Male;Asymptomatic;140;192;No;Normal;148;No;0.4;Flat;0;fixed defect
+Yes;56;Female;Atypical angina;140;294;No;Left ventricular hypertrophy;153;No;1.3;Flat;0;normal
+Yes;44;Male;Atypical angina;120;263;No;Normal;173;No;0;Upsloping;0;reversable defect
+Yes;52;Male;Non-anginal pain;172;199;Yes;Normal;162;No;0.5;Upsloping;0;reversable defect
+Yes;57;Male;Non-anginal pain;150;168;No;Normal;174;No;1.6;Upsloping;0;normal
+Yes;54;Male;Asymptomatic;140;239;No;Normal;160;No;1.2;Upsloping;0;normal
+Yes;48;Female;Non-anginal pain;130;275;No;Normal;139;No;0.2;Upsloping;0;normal
+Yes;49;Male;Atypical angina;130;266;No;Normal;171;No;0.6;Upsloping;0;normal
+No;64;Male;Typical angina;110;211;No;Left ventricular hypertrophy;144;Yes;1.8;Flat;0;normal
+Yes;58;Female;Typical angina;150;283;Yes;Left ventricular hypertrophy;162;No;1;Upsloping;0;normal
+Yes;50;Female;Non-anginal pain;120;219;No;Normal;158;No;1.6;Flat;0;normal
+Yes;58;Female;Non-anginal pain;120;340;No;Normal;172;No;0;Upsloping;0;normal
+Yes;66;Female;Typical angina;150;226;No;Normal;114;No;2.6;Downsloping;0;normal
+Yes;43;Male;Asymptomatic;150;247;No;Normal;171;No;1.5;Upsloping;0;normal
+No;69;Female;Typical angina;140;239;No;Normal;151;No;1.8;Upsloping;2;normal
+Yes;59;Male;Asymptomatic;135;234;No;Normal;161;No;0.5;Flat;0;reversable defect
+Yes;44;Male;Non-anginal pain;130;233;No;Normal;179;Yes;0.4;Upsloping;0;normal
+Yes;42;Male;Asymptomatic;140;226;No;Normal;178;No;0;Upsloping;0;normal
+Yes;61;Male;Non-anginal pain;150;243;Yes;Normal;137;Yes;1;Flat;0;normal
+Yes;40;Male;Typical angina;140;199;No;Normal;178;Yes;1.4;Upsloping;0;reversable defect
+No;71;Female;Atypical angina;160;302;No;Normal;162;No;0.4;Upsloping;2;normal
+Yes;59;Male;Non-anginal pain;150;212;Yes;Normal;157;No;1.6;Upsloping;0;normal
+Yes;51;Male;Non-anginal pain;110;175;No;Normal;123;No;0.6;Upsloping;0;normal
+Yes;65;Female;Non-anginal pain;140;417;Yes;Left ventricular hypertrophy;157;No;0.8;Upsloping;1;normal
+Yes;53;Male;Non-anginal pain;130;197;Yes;Left ventricular hypertrophy;152;No;1.2;Downsloping;0;normal
+No;41;Female;Atypical angina;105;198;No;Normal;168;No;0;Upsloping;1;normal
+Yes;65;Male;Asymptomatic;120;177;No;Normal;140;No;0.4;Upsloping;0;reversable defect
+Yes;44;Male;Atypical angina;130;219;No;Left ventricular hypertrophy;188;No;0;Upsloping;0;normal
+Yes;54;Male;Non-anginal pain;125;273;No;Left ventricular hypertrophy;152;No;0.5;Downsloping;1;normal
+No;51;Male;Typical angina;125;213;No;Left ventricular hypertrophy;125;Yes;1.4;Upsloping;1;normal
+Yes;46;Female;Non-anginal pain;142;177;No;Left ventricular hypertrophy;160;Yes;1.4;Downsloping;0;normal
+Yes;54;Female;Non-anginal pain;135;304;Yes;Normal;170;No;0;Upsloping;0;normal
+Yes;54;Male;Non-anginal pain;150;232;No;Left ventricular hypertrophy;165;No;1.6;Upsloping;0;reversable defect
+Yes;65;Female;Non-anginal pain;155;269;No;Normal;148;No;0.8;Upsloping;0;normal
+Yes;65;Female;Non-anginal pain;160;360;No;Left ventricular hypertrophy;151;No;0.8;Upsloping;0;normal
+No;51;Female;Non-anginal pain;140;308;No;Left ventricular hypertrophy;142;No;1.5;Upsloping;1;normal
+Yes;48;Male;Atypical angina;130;245;No;Left ventricular hypertrophy;180;No;0.2;Flat;0;normal
+No;45;Male;Asymptomatic;104;208;No;Left ventricular hypertrophy;148;Yes;3;Flat;0;normal
+Yes;53;Female;Asymptomatic;130;264;No;Left ventricular hypertrophy;143;No;0.4;Flat;0;normal
+Yes;39;Male;Non-anginal pain;140;321;No;Left ventricular hypertrophy;182;No;0;Upsloping;0;normal
+Yes;52;Male;Atypical angina;120;325;No;Normal;172;No;0.2;Upsloping;0;normal
+Yes;44;Male;Non-anginal pain;140;235;No;Left ventricular hypertrophy;180;No;0;Upsloping;0;normal
+Yes;47;Male;Non-anginal pain;138;257;No;Left ventricular hypertrophy;156;No;0;Upsloping;0;normal
+Yes;53;Female;Non-anginal pain;128;216;No;Left ventricular hypertrophy;115;No;0;Upsloping;0;normal
+Yes;53;Female;Asymptomatic;138;234;No;Left ventricular hypertrophy;160;No;0;Upsloping;0;normal
+Yes;51;Female;Non-anginal pain;130;256;No;Left ventricular hypertrophy;149;No;0.5;Upsloping;0;normal
+Yes;66;Male;Asymptomatic;120;302;No;Left ventricular hypertrophy;151;No;0.4;Flat;0;normal
+No;62;Male;Non-anginal pain;130;231;No;Normal;146;No;1.8;Flat;3;reversable defect
+Yes;44;Female;Non-anginal pain;108;141;No;Normal;175;No;0.6;Flat;0;normal
+Yes;63;Female;Non-anginal pain;135;252;No;Left ventricular hypertrophy;172;No;0;Upsloping;0;normal
+No;52;Male;Atypical angina;134;201;No;Normal;158;No;0.8;Upsloping;1;normal
+Yes;48;Male;Asymptomatic;122;222;No;Left ventricular hypertrophy;186;No;0;Upsloping;0;normal
+Yes;45;Male;Asymptomatic;115;260;No;Left ventricular hypertrophy;185;No;0;Upsloping;0;normal
+Yes;34;Male;Typical angina;118;182;No;Left ventricular hypertrophy;174;No;0;Upsloping;0;normal
+No;57;Female;Asymptomatic;128;303;No;Left ventricular hypertrophy;159;No;0;Upsloping;1;normal
+Yes;71;Female;Non-anginal pain;110;265;Yes;Left ventricular hypertrophy;130;No;0;Upsloping;1;normal
+Yes;54;Male;Atypical angina;108;309;No;Normal;156;No;0;Upsloping;0;reversable defect
+Yes;52;Male;Typical angina;118;186;No;Left ventricular hypertrophy;190;No;0;Flat;0;fixed defect
+Yes;41;Male;Atypical angina;135;203;No;Normal;132;No;0;Flat;0;fixed defect
+Yes;58;Male;Non-anginal pain;140;211;Yes;Left ventricular hypertrophy;165;No;0;Upsloping;0;normal
+Yes;35;Female;Asymptomatic;138;183;No;Normal;182;No;1.4;Upsloping;0;normal
+Yes;51;Male;Non-anginal pain;100;222;No;Normal;143;Yes;1.2;Flat;0;normal
+Yes;45;Female;Atypical angina;130;234;No;Left ventricular hypertrophy;175;No;0.6;Flat;0;normal
+Yes;44;Male;Atypical angina;120;220;No;Normal;170;No;0;Upsloping;0;normal
+Yes;62;Female;Asymptomatic;124;209;No;Normal;163;No;0;Upsloping;0;normal
+Yes;54;Male;Non-anginal pain;120;258;No;Left ventricular hypertrophy;147;No;0.4;Flat;0;reversable defect
+No;51;Male;Non-anginal pain;94;227;No;Normal;154;Yes;0;Upsloping;1;reversable defect
+Yes;29;Male;Atypical angina;130;204;No;Left ventricular hypertrophy;202;No;0;Upsloping;0;normal
+Yes;51;Male;Asymptomatic;140;261;No;Left ventricular hypertrophy;186;Yes;0;Upsloping;0;normal
+Yes;43;Female;Non-anginal pain;122;213;No;Normal;165;No;0.2;Flat;0;normal
+Yes;55;Female;Atypical angina;135;250;No;Left ventricular hypertrophy;161;No;1.4;Flat;0;normal
+Yes;51;Male;Non-anginal pain;125;245;Yes;Left ventricular hypertrophy;166;No;2.4;Flat;0;normal
+Yes;59;Male;Atypical angina;140;221;No;Normal;164;Yes;0;Upsloping;0;normal
+Yes;52;Male;Atypical angina;128;205;Yes;Normal;184;No;0;Upsloping;0;normal
+Yes;58;Male;Non-anginal pain;105;240;No;Left ventricular hypertrophy;154;Yes;0.6;Flat;0;reversable defect
+Yes;41;Male;Non-anginal pain;112;250;No;Normal;179;No;0;Upsloping;0;normal
+Yes;45;Male;Atypical angina;128;308;No;Left ventricular hypertrophy;170;No;0;Upsloping;0;normal
+Yes;60;Female;Non-anginal pain;102;318;No;Normal;160;No;0;Upsloping;1;normal
+Yes;52;Male;Typical angina;152;298;Yes;Normal;178;No;1.2;Flat;0;reversable defect
+Yes;42;Female;Asymptomatic;102;265;No;Left ventricular hypertrophy;122;No;0.6;Flat;0;normal
+Yes;67;Female;Non-anginal pain;115;564;No;Left ventricular hypertrophy;160;No;1.6;Flat;0;reversable defect
+Yes;68;Male;Non-anginal pain;118;277;No;Normal;151;No;1;Upsloping;1;reversable defect
+Yes;46;Male;Atypical angina;101;197;Yes;Normal;156;No;0;Upsloping;0;reversable defect
+Yes;54;Female;Non-anginal pain;110;214;No;Normal;158;No;1.6;Flat;0;normal
+Yes;58;Female;Asymptomatic;100;248;No;Left ventricular hypertrophy;122;No;1;Flat;0;normal
+Yes;48;Male;Non-anginal pain;124;255;Yes;Normal;175;No;0;Upsloping;2;normal
+Yes;57;Male;Asymptomatic;132;207;No;Normal;168;Yes;0;Upsloping;0;reversable defect
+Yes;52;Male;Non-anginal pain;138;223;No;Normal;169;No;0;Upsloping;4;normal
+No;54;Female;Atypical angina;132;288;Yes;Left ventricular hypertrophy;159;Yes;0;Upsloping;1;normal
+Yes;45;Female;Atypical angina;112;160;No;Normal;138;No;0;Flat;0;normal
+Yes;53;Male;Asymptomatic;142;226;No;Left ventricular hypertrophy;111;Yes;0;Upsloping;0;reversable defect
+Yes;62;Female;Asymptomatic;140;394;No;Left ventricular hypertrophy;157;No;1.2;Flat;0;normal
+No;52;Male;Asymptomatic;108;233;Yes;Normal;147;No;0.1;Upsloping;3;reversable defect
+No;43;Male;Non-anginal pain;130;315;No;Normal;162;No;1.9;Upsloping;1;normal
+Yes;53;Male;Non-anginal pain;130;246;Yes;Left ventricular hypertrophy;173;No;0;Upsloping;3;normal
+Yes;42;Male;Typical angina;148;244;No;Left ventricular hypertrophy;178;No;0.8;Upsloping;2;normal
+No;59;Male;Typical angina;178;270;No;Left ventricular hypertrophy;145;No;4.2;Downsloping;0;reversable defect
+No;63;Female;Atypical angina;140;195;No;Normal;179;No;0;Upsloping;2;normal
+Yes;42;Male;Non-anginal pain;120;240;Yes;Normal;194;No;0.8;Downsloping;0;reversable defect
+Yes;50;Male;Non-anginal pain;129;196;No;Normal;163;No;0;Upsloping;0;normal
+Yes;68;Female;Non-anginal pain;120;211;No;Left ventricular hypertrophy;115;No;1.5;Flat;0;normal
+Yes;69;Male;Typical angina;160;234;Yes;Left ventricular hypertrophy;131;No;0.1;Flat;1;normal
+Yes;45;Female;Asymptomatic;138;236;No;Left ventricular hypertrophy;152;Yes;0.2;Flat;0;normal
+Yes;50;Female;Atypical angina;120;244;No;Normal;162;No;1.1;Upsloping;0;normal
+Yes;50;Female;Asymptomatic;110;254;No;Left ventricular hypertrophy;159;No;0;Upsloping;0;normal
+Yes;64;Female;Asymptomatic;180;325;No;Normal;154;Yes;0;Upsloping;0;normal
+Yes;57;Male;Non-anginal pain;150;126;Yes;Normal;173;No;0.2;Upsloping;1;reversable defect
+Yes;64;Female;Non-anginal pain;140;313;No;Normal;133;No;0.2;Upsloping;0;reversable defect
+Yes;43;Male;Asymptomatic;110;211;No;Normal;161;No;0;Upsloping;0;reversable defect
+Yes;55;Male;Atypical angina;130;262;No;Normal;155;No;0;Upsloping;0;normal
+Yes;37;Female;Non-anginal pain;120;215;No;Normal;170;No;0;Upsloping;0;normal
+Yes;41;Male;Non-anginal pain;130;214;No;Left ventricular hypertrophy;168;No;2;Flat;0;normal
+Yes;56;Male;Typical angina;120;193;No;Left ventricular hypertrophy;162;No;1.9;Flat;0;reversable defect
+Yes;46;Female;Atypical angina;105;204;No;Normal;172;No;0;Upsloping;0;normal
+Yes;46;Female;Asymptomatic;138;243;No;Left ventricular hypertrophy;152;Yes;0;Flat;0;normal
+No;64;Female;Asymptomatic;130;303;No;Normal;122;No;2;Flat;2;normal
+Yes;59;Male;Asymptomatic;138;271;No;Left ventricular hypertrophy;182;No;0;Upsloping;0;normal
+Yes;41;Female;Non-anginal pain;112;268;No;Left ventricular hypertrophy;172;Yes;0;Upsloping;0;normal
+Yes;54;Female;Non-anginal pain;108;267;No;Left ventricular hypertrophy;167;No;0;Upsloping;0;normal
+Yes;39;Female;Non-anginal pain;94;199;No;Normal;179;No;0;Upsloping;0;normal
+Yes;34;Female;Atypical angina;118;210;No;Normal;192;No;0.7;Upsloping;0;normal
+Yes;47;Male;Asymptomatic;112;204;No;Normal;143;No;0.1;Upsloping;0;normal
+Yes;67;Female;Non-anginal pain;152;277;No;Normal;172;No;0;Upsloping;1;normal
+Yes;52;Female;Non-anginal pain;136;196;No;Left ventricular hypertrophy;169;No;0.1;Flat;0;normal
+No;74;Female;Atypical angina;120;269;No;Left ventricular hypertrophy;121;Yes;0.2;Upsloping;1;normal
+Yes;54;Female;Non-anginal pain;160;201;No;Normal;163;No;0;Upsloping;1;normal
+Yes;49;Female;Atypical angina;134;271;No;Normal;162;No;0;Flat;0;normal
+Yes;42;Male;Atypical angina;120;295;No;Normal;162;No;0;Upsloping;0;normal
+Yes;41;Male;Atypical angina;110;235;No;Normal;153;No;0;Upsloping;0;normal
+Yes;41;Female;Atypical angina;126;306;No;Normal;163;No;0;Upsloping;0;normal
+Yes;49;Female;Asymptomatic;130;269;No;Normal;163;No;0;Upsloping;0;normal
+Yes;60;Female;Non-anginal pain;120;178;Yes;Normal;96;No;0;Upsloping;0;normal
+Yes;62;Male;Atypical angina;128;208;Yes;Left ventricular hypertrophy;140;No;0;Upsloping;0;normal
+No;57;Male;Asymptomatic;110;201;No;Normal;126;Yes;1.5;Flat;0;fixed defect
+No;64;Male;Asymptomatic;128;263;No;Normal;105;Yes;0.2;Flat;1;reversable defect
+Yes;51;Female;Non-anginal pain;120;295;No;Left ventricular hypertrophy;157;No;0.6;Upsloping;0;normal
+Yes;43;Male;Asymptomatic;115;303;No;Normal;181;No;1.2;Flat;0;normal
+Yes;42;Female;Non-anginal pain;120;209;No;Normal;173;No;0;Flat;0;normal
+No;67;Female;Asymptomatic;106;223;No;Normal;142;No;0.3;Upsloping;2;normal
+Yes;76;Female;Non-anginal pain;140;197;No;ST-T wave abnormality;116;No;1.1;Flat;0;normal
+Yes;70;Male;Atypical angina;156;245;No;Left ventricular hypertrophy;143;No;0;Upsloping;0;normal
+Yes;44;Female;Non-anginal pain;118;242;No;Normal;149;No;0.3;Flat;1;normal
+Yes;60;Female;Typical angina;150;240;No;Normal;171;No;0.9;Upsloping;0;normal
+Yes;44;Male;Non-anginal pain;120;226;No;Normal;169;No;0;Upsloping;0;normal
+Yes;42;Male;Non-anginal pain;130;180;No;Normal;150;No;0;Upsloping;0;normal
+No;66;Male;Asymptomatic;160;228;No;Left ventricular hypertrophy;138;No;2.3;Upsloping;0;fixed defect
+Yes;71;Female;Asymptomatic;112;149;No;Normal;125;No;1.6;Flat;0;normal
+Yes;64;Male;Typical angina;170;227;No;Left ventricular hypertrophy;155;No;0.6;Flat;0;reversable defect
+Yes;66;Female;Non-anginal pain;146;278;No;Left ventricular hypertrophy;152;No;0;Flat;1;normal
+Yes;39;Female;Non-anginal pain;138;220;No;Normal;152;No;0;Flat;0;normal
+Yes;58;Female;Asymptomatic;130;197;No;Normal;131;No;0.6;Flat;0;normal
+Yes;47;Male;Non-anginal pain;130;253;No;Normal;179;No;0;Upsloping;0;normal
+Yes;35;Male;Atypical angina;122;192;No;Normal;174;No;0;Upsloping;0;normal
+No;58;Male;Atypical angina;125;220;No;Normal;144;No;0.4;Flat;4;reversable defect
+Yes;56;Male;Atypical angina;130;221;No;Left ventricular hypertrophy;163;No;0;Upsloping;0;reversable defect
+Yes;56;Male;Atypical angina;120;240;No;Normal;169;No;0;Downsloping;0;normal
+Yes;55;Female;Atypical angina;132;342;No;Normal;166;No;1.2;Upsloping;0;normal
+Yes;41;Male;Atypical angina;120;157;No;Normal;182;No;0;Upsloping;0;normal
+Yes;38;Male;Non-anginal pain;138;175;No;Normal;173;No;0;Upsloping;4;normal
+Yes;38;Male;Non-anginal pain;138;175;No;Normal;173;No;0;Upsloping;4;normal
+No;67;Male;Asymptomatic;160;286;No;Left ventricular hypertrophy;108;Yes;1.5;Flat;3;normal
+No;67;Male;Asymptomatic;120;229;No;Left ventricular hypertrophy;129;Yes;2.6;Flat;2;reversable defect
+No;62;Female;Asymptomatic;140;268;No;Left ventricular hypertrophy;160;No;3.6;Downsloping;2;normal
+No;63;Male;Asymptomatic;130;254;No;Left ventricular hypertrophy;147;No;1.4;Flat;1;reversable defect
+No;53;Male;Asymptomatic;140;203;Yes;Left ventricular hypertrophy;155;Yes;3.1;Downsloping;0;reversable defect
+No;56;Male;Non-anginal pain;130;256;Yes;Left ventricular hypertrophy;142;Yes;0.6;Flat;1;fixed defect
+Yes;48;Male;Atypical angina;110;229;No;Normal;168;No;1;Downsloping;0;reversable defect
+Yes;58;Male;Atypical angina;120;284;No;Left ventricular hypertrophy;160;No;1.8;Flat;0;normal
+No;58;Male;Non-anginal pain;132;224;No;Left ventricular hypertrophy;173;No;3.2;Upsloping;2;reversable defect
+No;60;Male;Asymptomatic;130;206;No;Left ventricular hypertrophy;132;Yes;2.4;Flat;2;reversable defect
+No;40;Male;Asymptomatic;110;167;No;Left ventricular hypertrophy;114;Yes;2;Flat;0;reversable defect
+No;60;Male;Asymptomatic;117;230;Yes;Normal;160;Yes;1.4;Upsloping;2;reversable defect
+Yes;64;Male;Non-anginal pain;140;335;No;Normal;158;No;0;Upsloping;0;normal
+No;43;Male;Asymptomatic;120;177;No;Left ventricular hypertrophy;120;Yes;2.5;Flat;0;reversable defect
+No;57;Male;Asymptomatic;150;276;No;Left ventricular hypertrophy;112;Yes;0.6;Flat;1;fixed defect
+No;55;Male;Asymptomatic;132;353;No;Normal;132;Yes;1.2;Flat;1;reversable defect
+No;65;Female;Asymptomatic;150;225;No;Left ventricular hypertrophy;114;No;1;Flat;3;reversable defect
+Yes;61;Female;Asymptomatic;130;330;No;Left ventricular hypertrophy;169;No;0;Upsloping;0;normal
+No;58;Male;Non-anginal pain;112;230;No;Left ventricular hypertrophy;165;No;2.5;Flat;1;reversable defect
+No;50;Male;Asymptomatic;150;243;No;Left ventricular hypertrophy;128;No;2.6;Flat;0;reversable defect
+No;44;Male;Asymptomatic;112;290;No;Left ventricular hypertrophy;153;No;0;Upsloping;1;normal
+No;60;Male;Asymptomatic;130;253;No;Normal;144;Yes;1.4;Upsloping;1;reversable defect
+No;54;Male;Asymptomatic;124;266;No;Left ventricular hypertrophy;109;Yes;2.2;Flat;1;reversable defect
+Yes;50;Male;Non-anginal pain;140;233;No;Normal;163;No;0.6;Flat;1;reversable defect
+Yes;41;Male;Asymptomatic;110;172;No;Left ventricular hypertrophy;158;No;0;Upsloping;0;reversable defect
+No;51;Female;Asymptomatic;130;305;No;Normal;142;Yes;1.2;Flat;0;reversable defect
+No;58;Male;Asymptomatic;128;216;No;Left ventricular hypertrophy;131;Yes;2.2;Flat;3;reversable defect
+No;54;Male;Asymptomatic;120;188;No;Normal;113;No;1.4;Flat;1;reversable defect
+No;60;Male;Asymptomatic;145;282;No;Left ventricular hypertrophy;142;Yes;2.8;Flat;2;reversable defect
+Yes;60;Male;Non-anginal pain;140;185;No;Left ventricular hypertrophy;155;No;3;Flat;0;normal
+No;59;Male;Asymptomatic;170;326;No;Left ventricular hypertrophy;140;Yes;3.4;Downsloping;0;reversable defect
+No;46;Male;Non-anginal pain;150;231;No;Normal;147;No;3.6;Flat;0;normal
+No;67;Male;Asymptomatic;125;254;Yes;Normal;163;No;0.2;Flat;2;reversable defect
+No;62;Male;Asymptomatic;120;267;No;Normal;99;Yes;1.8;Flat;2;reversable defect
+No;65;Male;Asymptomatic;110;248;No;Left ventricular hypertrophy;158;No;0.6;Upsloping;2;fixed defect
+No;44;Male;Asymptomatic;110;197;No;Left ventricular hypertrophy;177;No;0;Upsloping;1;normal
+No;60;Male;Asymptomatic;125;258;No;Left ventricular hypertrophy;141;Yes;2.8;Flat;1;reversable defect
+No;58;Male;Asymptomatic;150;270;No;Left ventricular hypertrophy;111;Yes;0.8;Upsloping;0;reversable defect
+Yes;68;Male;Non-anginal pain;180;274;Yes;Left ventricular hypertrophy;150;Yes;1.6;Flat;0;reversable defect
+No;62;Female;Asymptomatic;160;164;No;Left ventricular hypertrophy;145;No;6.2;Downsloping;3;reversable defect
+No;52;Male;Asymptomatic;128;255;No;Normal;161;Yes;0;Upsloping;1;reversable defect
+No;59;Male;Asymptomatic;110;239;No;Left ventricular hypertrophy;142;Yes;1.2;Flat;1;reversable defect
+No;60;Female;Asymptomatic;150;258;No;Left ventricular hypertrophy;157;No;2.6;Flat;2;reversable defect
+No;49;Male;Non-anginal pain;120;188;No;Normal;139;No;2;Flat;3;reversable defect
+No;59;Male;Asymptomatic;140;177;No;Normal;162;Yes;0;Upsloping;1;reversable defect
+Yes;57;Male;Non-anginal pain;128;229;No;Left ventricular hypertrophy;150;No;0.4;Flat;1;reversable defect
+No;61;Male;Asymptomatic;120;260;No;Normal;140;Yes;3.6;Flat;1;reversable defect
+Yes;39;Male;Asymptomatic;118;219;No;Normal;140;No;1.2;Flat;0;reversable defect
+No;61;Female;Asymptomatic;145;307;No;Left ventricular hypertrophy;146;Yes;1;Flat;0;reversable defect
+No;56;Male;Asymptomatic;125;249;Yes;Left ventricular hypertrophy;144;Yes;1.2;Flat;1;normal
+No;43;Female;Asymptomatic;132;341;Yes;Left ventricular hypertrophy;136;Yes;3;Flat;0;reversable defect
+No;62;Female;Non-anginal pain;130;263;No;Normal;97;No;1.2;Flat;1;reversable defect
+No;63;Male;Asymptomatic;130;330;Yes;Left ventricular hypertrophy;132;Yes;1.8;Upsloping;3;reversable defect
+No;65;Male;Asymptomatic;135;254;No;Left ventricular hypertrophy;127;No;2.8;Flat;1;reversable defect
+No;48;Male;Asymptomatic;130;256;Yes;Left ventricular hypertrophy;150;Yes;0;Upsloping;2;reversable defect
+No;63;Female;Asymptomatic;150;407;No;Left ventricular hypertrophy;154;No;4;Flat;3;reversable defect
+No;55;Male;Asymptomatic;140;217;No;Normal;111;Yes;5.6;Downsloping;0;reversable defect
+No;65;Male;Typical angina;138;282;Yes;Left ventricular hypertrophy;174;No;1.4;Flat;1;normal
+No;56;Female;Asymptomatic;200;288;Yes;Left ventricular hypertrophy;133;Yes;4;Downsloping;2;reversable defect
+No;54;Male;Asymptomatic;110;239;No;Normal;126;Yes;2.8;Flat;1;reversable defect
+No;70;Male;Asymptomatic;145;174;No;Normal;125;Yes;2.6;Downsloping;0;reversable defect
+No;62;Male;Atypical angina;120;281;No;Left ventricular hypertrophy;103;No;1.4;Flat;1;reversable defect
+No;35;Male;Asymptomatic;120;198;No;Normal;130;Yes;1.6;Flat;0;reversable defect
+Yes;59;Male;Typical angina;170;288;No;Left ventricular hypertrophy;159;No;0.2;Flat;0;reversable defect
+No;64;Male;Non-anginal pain;125;309;No;Normal;131;Yes;1.8;Flat;0;reversable defect
+Yes;47;Male;Non-anginal pain;108;243;No;Normal;152;No;0;Upsloping;0;normal
+No;57;Male;Asymptomatic;165;289;Yes;Left ventricular hypertrophy;124;No;1;Flat;3;reversable defect
+No;55;Male;Asymptomatic;160;289;No;Left ventricular hypertrophy;145;Yes;0.8;Flat;1;reversable defect
+No;64;Male;Asymptomatic;120;246;No;Left ventricular hypertrophy;96;Yes;2.2;Downsloping;1;normal
+No;70;Male;Asymptomatic;130;322;No;Left ventricular hypertrophy;109;No;2.4;Flat;3;normal
+No;51;Male;Asymptomatic;140;299;No;Normal;173;Yes;1.6;Upsloping;0;reversable defect
+No;58;Male;Asymptomatic;125;300;No;Left ventricular hypertrophy;171;No;0;Upsloping;2;reversable defect
+No;60;Male;Asymptomatic;140;293;No;Left ventricular hypertrophy;170;No;1.2;Flat;2;reversable defect
+No;77;Male;Asymptomatic;125;304;No;Left ventricular hypertrophy;162;Yes;0;Upsloping;3;normal
+Yes;35;Male;Asymptomatic;126;282;No;Left ventricular hypertrophy;156;Yes;0;Upsloping;0;reversable defect
+No;70;Male;Non-anginal pain;160;269;No;Normal;112;Yes;2.9;Flat;1;reversable defect
+Yes;59;Female;Asymptomatic;174;249;No;Normal;143;Yes;0;Flat;0;normal
+No;64;Male;Asymptomatic;145;212;No;Left ventricular hypertrophy;132;No;2;Flat;2;fixed defect
+No;57;Male;Asymptomatic;152;274;No;Normal;88;Yes;1.2;Flat;1;reversable defect
+No;56;Male;Asymptomatic;132;184;No;Left ventricular hypertrophy;105;Yes;2.1;Flat;1;fixed defect
+Yes;48;Male;Asymptomatic;124;274;No;Left ventricular hypertrophy;166;No;0.5;Flat;0;reversable defect
+No;56;Female;Asymptomatic;134;409;No;Left ventricular hypertrophy;150;Yes;1.9;Flat;2;reversable defect
+No;66;Male;Atypical angina;160;246;No;Normal;120;Yes;0;Flat;3;fixed defect
+No;54;Male;Atypical angina;192;283;No;Left ventricular hypertrophy;195;No;0;Upsloping;1;reversable defect
+No;69;Male;Non-anginal pain;140;254;No;Left ventricular hypertrophy;146;No;2;Flat;3;reversable defect
+No;51;Male;Asymptomatic;140;298;No;Normal;122;Yes;4.2;Flat;3;reversable defect
+No;43;Male;Asymptomatic;132;247;Yes;Left ventricular hypertrophy;143;Yes;0.1;Flat;4;reversable defect
+No;62;Female;Asymptomatic;138;294;Yes;Normal;106;No;1.9;Flat;3;normal
+No;67;Male;Asymptomatic;100;299;No;Left ventricular hypertrophy;125;Yes;0.9;Flat;2;normal
+Yes;59;Male;Typical angina;160;273;No;Left ventricular hypertrophy;125;No;0;Upsloping;0;normal
+No;45;Male;Asymptomatic;142;309;No;Left ventricular hypertrophy;147;Yes;0;Flat;3;reversable defect
+No;58;Male;Asymptomatic;128;259;No;Left ventricular hypertrophy;130;Yes;3;Flat;2;reversable defect
+No;50;Male;Asymptomatic;144;200;No;Left ventricular hypertrophy;126;Yes;0.9;Flat;0;reversable defect
+No;62;Female;Asymptomatic;150;244;No;Normal;154;Yes;1.4;Flat;0;normal
+No;38;Male;Typical angina;120;231;No;Normal;182;Yes;3.8;Flat;0;reversable defect
+No;66;Female;Asymptomatic;178;228;Yes;Normal;165;Yes;1;Flat;2;reversable defect
+No;52;Male;Asymptomatic;112;230;No;Normal;160;No;0;Upsloping;1;normal
+No;53;Male;Asymptomatic;123;282;No;Normal;95;Yes;2;Flat;2;reversable defect
+No;63;Female;Asymptomatic;108;269;No;Normal;169;Yes;1.8;Flat;2;normal
+No;54;Male;Asymptomatic;110;206;No;Left ventricular hypertrophy;108;Yes;0;Flat;1;normal
+No;66;Male;Asymptomatic;112;212;No;Left ventricular hypertrophy;132;Yes;0.1;Upsloping;1;normal
+No;55;Female;Asymptomatic;180;327;No;ST-T wave abnormality;117;Yes;3.4;Flat;0;normal
+No;49;Male;Non-anginal pain;118;149;No;Left ventricular hypertrophy;126;No;0.8;Upsloping;3;normal
+No;54;Male;Asymptomatic;122;286;No;Left ventricular hypertrophy;116;Yes;3.2;Flat;2;normal
+No;56;Male;Asymptomatic;130;283;Yes;Left ventricular hypertrophy;103;Yes;1.6;Downsloping;0;reversable defect
+Yes;46;Male;Asymptomatic;120;249;No;Left ventricular hypertrophy;144;No;0.8;Upsloping;0;reversable defect
+No;61;Male;Typical angina;134;234;No;Normal;145;No;2.6;Flat;2;normal
+Yes;67;Male;Asymptomatic;120;237;No;Normal;71;No;1;Flat;0;normal
+No;58;Male;Asymptomatic;100;234;No;Normal;156;No;0.1;Upsloping;1;reversable defect
+No;47;Male;Asymptomatic;110;275;No;Left ventricular hypertrophy;118;Yes;1;Flat;1;normal
+No;52;Male;Asymptomatic;125;212;No;Normal;168;No;1;Upsloping;2;reversable defect
+No;58;Male;Asymptomatic;146;218;No;Normal;105;No;2;Flat;1;reversable defect
+Yes;57;Male;Atypical angina;124;261;No;Normal;141;No;0.3;Upsloping;0;reversable defect
+No;58;Female;Atypical angina;136;319;Yes;Left ventricular hypertrophy;152;No;0;Upsloping;2;normal
+No;61;Male;Asymptomatic;138;166;No;Left ventricular hypertrophy;125;Yes;3.6;Flat;1;normal
+No;42;Male;Asymptomatic;136;315;No;Normal;125;Yes;1.8;Flat;0;fixed defect
+No;52;Male;Asymptomatic;128;204;Yes;Normal;156;Yes;1;Flat;0;normal
+No;59;Male;Non-anginal pain;126;218;Yes;Normal;134;No;2.2;Flat;1;fixed defect
+Yes;40;Male;Asymptomatic;152;223;No;Normal;181;No;0;Upsloping;0;reversable defect
+No;61;Male;Asymptomatic;140;207;No;Left ventricular hypertrophy;138;Yes;1.9;Upsloping;1;reversable defect
+No;46;Male;Asymptomatic;140;311;No;Normal;120;Yes;1.8;Flat;2;reversable defect
+Yes;59;Male;Typical angina;134;204;No;Normal;162;No;0.8;Upsloping;2;normal
+No;57;Male;Atypical angina;154;232;No;Left ventricular hypertrophy;164;No;0;Upsloping;1;normal
+No;57;Male;Asymptomatic;110;335;No;Normal;143;Yes;3;Flat;1;reversable defect
+No;55;Female;Asymptomatic;128;205;No;ST-T wave abnormality;130;Yes;2;Flat;1;reversable defect
+No;61;Male;Asymptomatic;148;203;No;Normal;161;No;0;Upsloping;1;reversable defect
+No;58;Male;Asymptomatic;114;318;No;ST-T wave abnormality;140;No;4.4;Downsloping;3;fixed defect
+No;58;Female;Asymptomatic;170;225;Yes;Left ventricular hypertrophy;146;Yes;2.8;Flat;2;fixed defect
+Yes;67;Male;Non-anginal pain;152;212;No;Left ventricular hypertrophy;150;No;0.8;Flat;0;reversable defect
+No;44;Male;Asymptomatic;120;169;No;Normal;144;Yes;2.8;Downsloping;0;fixed defect
+No;63;Male;Asymptomatic;140;187;No;Left ventricular hypertrophy;144;Yes;4;Upsloping;2;reversable defect
+Yes;63;Female;Asymptomatic;124;197;No;Normal;136;Yes;0;Flat;0;normal
+No;59;Male;Asymptomatic;164;176;Yes;Left ventricular hypertrophy;90;No;1;Flat;2;fixed defect
+Yes;57;Female;Asymptomatic;140;241;No;Normal;123;Yes;0.2;Flat;0;reversable defect
+Yes;45;Male;Typical angina;110;264;No;Normal;132;No;1.2;Flat;0;reversable defect
+No;68;Male;Asymptomatic;144;193;Yes;Normal;141;No;3.4;Flat;2;reversable defect
+No;57;Male;Asymptomatic;130;131;No;Normal;115;Yes;1.2;Flat;1;reversable defect
+No;57;Female;Atypical angina;130;236;No;Left ventricular hypertrophy;174;No;0;Flat;1;normal
